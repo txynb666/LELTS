@@ -1,0 +1,1 @@
+{"name":"ielts-study","version":"1.0.0","private":true,"description":"A local-first IELTS vocabulary and writing practice companion","scripts":{"start":"node server.cjs","test":"node --test tests/*.test.cjs","check":"node --check app.js && node --check core.js && node --check words.js && node --check server.cjs"},"engines":{"node":">=20"}}
